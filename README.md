@@ -1,4 +1,4 @@
-# pr-babysit
+# Pr-Babysit
 
 Bot Slack que monitora Pull Requests do GitHub via polling e notifica os devs via DM.
 Não precisa de webhook — funciona localmente sem expor nenhuma porta.
